@@ -1,6 +1,2 @@
-README.md
-file.txt
-sorted_file.txt
-README.md
 file.txt
 sorted_file.txt
